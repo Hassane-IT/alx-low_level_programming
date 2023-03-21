@@ -13,6 +13,7 @@ int main(void)
 
 	before = 1;
 	after = 2;
+
 	printf("%ld, ", before);
 	printf("%ld, ", after);
 		while (count <= 47)
