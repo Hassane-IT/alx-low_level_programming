@@ -71,7 +71,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5f78171ebd72.js"></script>
   
 
-  <title>alx-low_level_programming/101-crackme_password at main · abela12/alx-low_level_programming</title>
+  <title>alx-low_level_programming/9-set_string.c at master · kiminzajnr/alx-low_level_programming</title>
 
 
 
@@ -81,10 +81,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="D97A:0E2E:3DE68C:3EEDB3:642B45CD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="91077c4431d1e1d8cc397176cef7b9f56cf7ba0abc522d0d8d9b411c444b1778" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hYmVsYTEyL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYWluLzB4MDctcG9pbnRlcnNfYXJyYXlzX3N0cmluZ3MiLCJyZXF1ZXN0X2lkIjoiRDk3QTowRTJFOjNERTY4QzozRUVEQjM6NjQyQjQ1Q0QiLCJ2aXNpdG9yX2lkIjoiNDc5Mzc4MTk0MzI4NDEzNTE1MyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="446e0085196862d7fb425b990e5d1a840f5cd466dbeabb0456f702089b7b3678" data-turbo-transient="true" />
+  <meta name="request-id" content="D9CC:0C12:4F082B:503860:642B484B" data-turbo-transient="true" /><meta name="html-safe-nonce" content="91077c4431d1e1d8cc397176cef7b9f56cf7ba0abc522d0d8d9b411c444b1778" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9raW1pbnpham5yL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwNy1wb2ludGVyc19hcnJheXNfc3RyaW5ncyIsInJlcXVlc3RfaWQiOiJEOUNDOjBDMTI6NEYwODJCOjUwMzg2MDo2NDJCNDg0QiIsInZpc2l0b3JfaWQiOiI0NzkzNzgxOTQzMjg0MTM1MTUzIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="6f631b81e4865397bcfe5637899356b48783516bc6f07bd176fb61ed8a465fe9" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:468245747" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:335630320" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -115,16 +115,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="alx low level programming. Contribute to abela12/alx-low_level_programming development by creating an account on GitHub.">
+      <meta name="description" content="Low level programming. Contribute to kiminzajnr/alx-low_level_programming development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/d816414d2482b6158b467500ec18892ec92ae4a861edcaf7ae6385af8bbdfe84/abela12/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/101-crackme_password at main · abela12/alx-low_level_programming" /><meta name="twitter:description" content="alx low level programming. Contribute to abela12/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/d816414d2482b6158b467500ec18892ec92ae4a861edcaf7ae6385af8bbdfe84/abela12/alx-low_level_programming" /><meta property="og:image:alt" content="alx low level programming. Contribute to abela12/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/101-crackme_password at main · abela12/alx-low_level_programming" /><meta property="og:url" content="https://github.com/abela12/alx-low_level_programming" /><meta property="og:description" content="alx low level programming. Contribute to abela12/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/609bac3256fe1e62cd2890acd3b31641c2a6254197c9489c12be902e4d0d419a/kiminzajnr/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/9-set_string.c at master · kiminzajnr/alx-low_level_programming" /><meta name="twitter:description" content="Low level programming. Contribute to kiminzajnr/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/609bac3256fe1e62cd2890acd3b31641c2a6254197c9489c12be902e4d0d419a/kiminzajnr/alx-low_level_programming" /><meta property="og:image:alt" content="Low level programming. Contribute to kiminzajnr/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/9-set_string.c at master · kiminzajnr/alx-low_level_programming" /><meta property="og:url" content="https://github.com/kiminzajnr/alx-low_level_programming" /><meta property="og:description" content="Low level programming. Contribute to kiminzajnr/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/98743776/ws?session=eyJ2IjoiVjMiLCJ1Ijo5ODc0Mzc3NiwicyI6MTA4ODAwOTIwNCwiYyI6MzIwNjgxOTU4MCwidCI6MTY4MDU1NzUyM30=--761eb7f154f25eaa2ef44923cb6ccab8cf8dff3fa3f09194ea1af7272572b3e0" data-refresh-url="/_alive" data-session-id="18c008fc32a607e48f49c56501b7a28809bcdd24cccd1e7e1b9af0d3b2ac4193">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/98743776/ws?session=eyJ2IjoiVjMiLCJ1Ijo5ODc0Mzc3NiwicyI6MTA4ODAwOTIwNCwiYyI6MzU3NDI3NjYwMywidCI6MTY4MDU1ODE2MH0=--dd4310da4f87b7d244f6e4e655007d6ce607a96183b234006c40112f4908457f" data-refresh-url="/_alive" data-session-id="18c008fc32a607e48f49c56501b7a28809bcdd24cccd1e7e1b9af0d3b2ac4193">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -148,13 +148,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/abela12/alx-low_level_programming git https://github.com/abela12/alx-low_level_programming.git">
+  <meta name="go-import" content="github.com/kiminzajnr/alx-low_level_programming git https://github.com/kiminzajnr/alx-low_level_programming.git">
 
-  <meta name="octolytics-dimension-user_id" content="46282557" /><meta name="octolytics-dimension-user_login" content="abela12" /><meta name="octolytics-dimension-repository_id" content="468245747" /><meta name="octolytics-dimension-repository_nwo" content="abela12/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="468245747" /><meta name="octolytics-dimension-repository_network_root_nwo" content="abela12/alx-low_level_programming" />
+  <meta name="octolytics-dimension-user_id" content="44212485" /><meta name="octolytics-dimension-user_login" content="kiminzajnr" /><meta name="octolytics-dimension-repository_id" content="335630320" /><meta name="octolytics-dimension-repository_nwo" content="kiminzajnr/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="335630320" /><meta name="octolytics-dimension-repository_network_root_nwo" content="kiminzajnr/alx-low_level_programming" />
 
 
 
-    <link rel="canonical" href="https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -226,7 +226,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="468245747" data-scoped-search-url="/abela12/alx-low_level_programming/search" data-owner-scoped-search-url="/users/abela12/search" data-unscoped-search-url="/search" data-turbo="false" action="/abela12/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="335630320" data-scoped-search-url="/kiminzajnr/alx-low_level_programming/search" data-owner-scoped-search-url="/users/kiminzajnr/search" data-unscoped-search-url="/search" data-turbo="false" action="/kiminzajnr/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -247,7 +247,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="IctfPAyWr7LfyDas4aSVC7F5obD9uOwB2Ef4yEWYBu2JdrR90ALYU4dil7cJUdT2oJZyBOeH-1InQ_o2EEwNHA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="fu9R3HAmQeVv3-fxKApPsV-lsF6aPv9BrpJPeFxzzfzWUrqdrLI2BDd1RurA_w5MTkpj6oAB6BJRlk2GCafGDQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -446,7 +446,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Hassane-IT&quot;,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="63b254707daa86f4d09f47083184f961b20b1dbbab697b45b04fbd2877b29fec" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Hassane-IT&quot;,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="d182117e579e9f2eefd84036991e037df0cd916f50049ba9d07ab9a8bb9973a8" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -454,7 +454,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/98743776?s=40&amp;v=4" width="20" height="20" alt="@Hassane-IT" />
       Hassane-IT
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HZ3nto-FlcumNeADwy0j2n1FOYh8Ca8_wjlUiI50AtXp6_BEmsTXjThr96Y8Kh8S_txcF2ga4Y-lRQEINderng" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rbVBHlF7gIOS5-gwrToxytd3kMgLLkP4KHR1qItTkPtZw1bsRDrCxQy5_5VSPQ0CVO71Vx89DUhPCCAoMPA5sA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -489,7 +489,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTg3NDM3NzYiLCJ0IjoxNjgwNTU3NTIzfQ==--ba0c9d40ba6c16483190fd564fe99369cc231220b518f3936a206634d0781315" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTg3NDM3NzYiLCJ0IjoxNjgwNTU4MTYwfQ==--a49680a480f9a4f7e968d29ca81617333772996b04d79dabe7cd7dc151d5d579" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -632,7 +632,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTg3NDM3NzYiLCJ0IjoxNjgwNTU3NTIzfQ==--ba0c9d40ba6c16483190fd564fe99369cc231220b518f3936a206634d0781315" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTg3NDM3NzYiLCJ0IjoxNjgwNTU4MTYwfQ==--a49680a480f9a4f7e968d29ca81617333772996b04d79dabe7cd7dc151d5d579" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -649,7 +649,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password
+      return-to=/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c
       user-id="98743776"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -753,17 +753,17 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="abela12"
-                data-id="MDQ6VXNlcjQ2MjgyNTU3"
+                data-text="kiminzajnr"
+                data-id="MDQ6VXNlcjQ0MjEyNDg1"
                 data-type="owner"
-                data-value="abela12"
+                data-value="kiminzajnr"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >abela12<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >kiminzajnr<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
                 data-text="alx-low_level_programming"
-                data-id="R_kgDOG-jc8w"
+                data-id="MDEwOlJlcG9zaXRvcnkzMzU2MzAzMjA="
                 data-type="repository"
                 data-value="alx-low_level_programming"
                 data-targets="command-palette-scope.tokens"
@@ -806,12 +806,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-01fdef91-af9a-4015-aed3-1497b1c908a3" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-f2d3ec03-8942-4cfe-b53a-a6251ca1a876" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="R_kgDOG-jc8w"
+        data-default-scope-id="MDEwOlJlcG9zaXRvcnkzMzU2MzAzMjA="
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1231,8 +1231,8 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="abela12"
-              data-scope-id="MDQ6VXNlcjQ2MjgyNTU3"
+              data-page-title="kiminzajnr"
+              data-scope-id="MDQ6VXNlcjQ0MjEyNDg1"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1240,7 +1240,7 @@
             </command-palette-page>
             <command-palette-page
               data-page-title="alx-low_level_programming"
-              data-scope-id="R_kgDOG-jc8w"
+              data-scope-id="MDEwOlJlcG9zaXRvcnkzMzU2MzAzMjA="
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1251,14 +1251,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="abela12"
-            data-scope-id="MDQ6VXNlcjQ2MjgyNTU3"
+            data-page-title="kiminzajnr"
+            data-scope-id="MDQ6VXNlcjQ0MjEyNDg1"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
             data-page-title="alx-low_level_programming"
-            data-scope-id="R_kgDOG-jc8w"
+            data-scope-id="MDEwOlJlcG9zaXRvcnkzMzU2MzAzMjA="
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1589,12 +1589,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/abela12/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abela12">
-        abela12
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/kiminzajnr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kiminzajnr">
+        kiminzajnr
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/abela12/alx-low_level_programming">alx-low_level_programming</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/kiminzajnr/alx-low_level_programming">alx-low_level_programming</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1618,7 +1618,7 @@
           data-action="toggle:notifications-list-subscription-form#detailsToggled"
         >
 
-          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="838038a716ef311bf5546f595ad2347fa2dd004505ce6fddd6f5095631a6ea53" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="73012b93d24f5677c34f3cdc41cedbac1be29f60dde5797826ca5826e38e36b3" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
               <span
                 hidden
                 
@@ -1650,7 +1650,7 @@
                 Watch
               </span>
             </span>
-              <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="1" data-view-component="true" class="Counter">1</span>
+              <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="2" data-view-component="true" class="Counter">2</span>
             <span class="dropdown-caret"></span>
 </summary>
           <details-menu
@@ -1670,9 +1670,9 @@
               </header>
 
               <div class="SelectMenu-list">
-                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2AhN6au9M5XbaE51is3rUsvFW6dfekUYhmSX4ZTvVkK9OUx9RW_CKbl61vqS0cRs68Pryos1kr6g789zirPPkg" autocomplete="off" />
+                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lyRhat9UxpJX2jImg0nZxAwwcmhcqEys38xHRsk7sEDyFWD-MYY3LjXIqqmbVfb6LDbCBYjnmwr5Rx_U12cpkA" autocomplete="off" />
 
-                  <input type="hidden" name="repository_id" value="468245747">
+                  <input type="hidden" name="repository_id" value="335630320">
 
                   <button
                     type="submit"
@@ -1798,9 +1798,9 @@
             hidden
           >
             <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ps7R1hSwN2hXT-Vsl-wkuRy9zWUYhc0nxgmrbHC2T-TD_9BC-mLG1DVdfeOP8AuHPLt9CMzKGoHggvP-burWNA" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AwdYv8s9P1POPQ4ySG2f4qcdr_pbN4RL2f4V5_LIdYpmNlkrJe_O76wvlr1QcbDchxsfl494U-3_dU117JTsWg" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="468245747">
+                <input type="hidden" name="repository_id" value="335630320">
 
                 <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                   <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1949,32 +1949,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/abela12/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="17a2f08a50ce7c125cdd06cd9f491044cdedf0a9ad2060044cee43b466f8ff40" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/kiminzajnr/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="1ea09621ea745c5f761bc1d2fdcfb5703667bc901de920385e6db57cccd87307" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="115" data-view-component="true" class="Counter">115</span>
-</a>    <tool-tip id="tooltip-91bf3f58-ff45-45e8-9c55-e1b1b1b0b923" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of abela12/alx-low_level_programming</tool-tip>
+          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="20" data-view-component="true" class="Counter">20</span>
+</a>    <tool-tip id="tooltip-29929ffb-a3e8-461b-a150-a197e2d45e4d" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of kiminzajnr/alx-low_level_programming</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-468245747" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-335630320" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/abela12/alx-low_level_programming/my_forks_menu_content?can_fork=true"
+      src="/kiminzajnr/alx-low_level_programming/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-65c88f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bd7177">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-65c88f"
+        id="filter-menu-bd7177"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2016,34 +2016,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/abela12/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LVsfZrh0BubHUfiW2b9ti4B_CeGLll2zbfWs6vgzr3TrAIUCcRkk72tO3ZLGW7NKdhtmLCXkDBm3OAJi5dYweQ" autocomplete="off" />
-          <input type="hidden" value="JZnrVDF2LMFl3feZR1FkRu-QOTJliVeJWNnFXq4tWmzjwnEw-BsOyMnC0p1YtbqHGfRW_8v7BiOCFGvWs8jFYQ" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/kiminzajnr/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lffHnsevsXM-EL7jUS0srmIqz5DCi7hvmFGQ64Mwmsd2DGo1u9Cd-aIG0Mmy4TrNvAOxd5ZMypMpWoBbcZ2SVg" autocomplete="off" />
+          <input type="hidden" value="dE58Z0S-LLqGCCImzgpO-nNJC4ZBhtrRdr19-Gcc_LeXtdHMOMEAMBoeTAwtxliZrWB1YRVBqC3Htm1IlbH0Jg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="6bd4a0087c3c9a0cdaa3d0c1a0f9d8c96891c1a24bd808e4f0689c682b3db089" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (12)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="dc311ffd39e93dd7715948e12d0ef5c7ba649d17dfb09247ccf149fa3b7d23e6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (6)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
-</span>            <span id="repo-stars-counter-unstar" aria-label="12 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="12" data-view-component="true" class="Counter js-social-count">12</span>
-</button></form>        <details id="details-user-list-468245747-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-unstar" aria-label="6 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="6" data-view-component="true" class="Counter js-social-count">6</span>
+</button></form>        <details id="details-user-list-335630320-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/abela12/alx-low_level_programming/lists"
+      src="/kiminzajnr/alx-low_level_programming/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-64c0b7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-350f76">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-64c0b7"
+        id="filter-menu-350f76"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2064,33 +2064,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/abela12/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jkb89qZ5SumW911Gpks2FHSRwNWzaA8FMSz-ivRZEnZ4un-p1ukPNO6QqnDdnwXkGFEJCSplRTw6i6nCxhaIeA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/kiminzajnr/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iVhisFSPzQxr0xnPssYdu2-v_v2oN58YmB7cawTtB0G-TTmjYxSdnGbTBGfh_ZnZaRxSQwQxIloEEk_PEThdaw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="bc9dd2e0bab9a30abcfb2f269f3af78ed92fb08fd86a499103bb316335ad53cb" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (12)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="10daf4a906511bc5e77842a554fed7982539284dc2d8d022897f42244f974ce4" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (6)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
-</span>            <span id="repo-stars-counter-star" aria-label="12 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="12" data-view-component="true" class="Counter js-social-count">12</span>
-</button></form>        <details id="details-user-list-468245747-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-star" aria-label="6 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="6" data-view-component="true" class="Counter js-social-count">6</span>
+</button></form>        <details id="details-user-list-335630320-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/abela12/alx-low_level_programming/lists"
+      src="/kiminzajnr/alx-low_level_programming/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-255e59">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-546d45">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-255e59"
+        id="filter-menu-546d45"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2127,7 +2127,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/abela12/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /abela12/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/kiminzajnr/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /kiminzajnr/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -2139,7 +2139,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/abela12/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /abela12/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/kiminzajnr/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /kiminzajnr/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -2151,7 +2151,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/abela12/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /abela12/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/kiminzajnr/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /kiminzajnr/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -2163,7 +2163,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/abela12/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /abela12/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/kiminzajnr/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /kiminzajnr/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -2175,7 +2175,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/abela12/alx-low_level_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /abela12/alx-low_level_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/kiminzajnr/alx-low_level_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /kiminzajnr/alx-low_level_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -2187,18 +2187,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/abela12/alx-low_level_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /abela12/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/kiminzajnr/alx-low_level_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /kiminzajnr/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/abela12/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/kiminzajnr/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/abela12/alx-low_level_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /abela12/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/kiminzajnr/alx-low_level_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /kiminzajnr/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -2220,31 +2220,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /abela12/alx-low_level_programming" href="/abela12/alx-low_level_programming">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /kiminzajnr/alx-low_level_programming" href="/kiminzajnr/alx-low_level_programming">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /abela12/alx-low_level_programming/issues" href="/abela12/alx-low_level_programming/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /kiminzajnr/alx-low_level_programming/issues" href="/kiminzajnr/alx-low_level_programming/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /abela12/alx-low_level_programming/pulls" href="/abela12/alx-low_level_programming/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /kiminzajnr/alx-low_level_programming/pulls" href="/kiminzajnr/alx-low_level_programming/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /abela12/alx-low_level_programming/actions" href="/abela12/alx-low_level_programming/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /kiminzajnr/alx-low_level_programming/actions" href="/kiminzajnr/alx-low_level_programming/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /abela12/alx-low_level_programming/projects" href="/abela12/alx-low_level_programming/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /kiminzajnr/alx-low_level_programming/projects" href="/kiminzajnr/alx-low_level_programming/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /abela12/alx-low_level_programming/security" href="/abela12/alx-low_level_programming/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /kiminzajnr/alx-low_level_programming/security" href="/kiminzajnr/alx-low_level_programming/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /abela12/alx-low_level_programming/pulse" href="/abela12/alx-low_level_programming/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /kiminzajnr/alx-low_level_programming/pulse" href="/kiminzajnr/alx-low_level_programming/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -2278,7 +2278,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/abela12/alx-low_level_programming/blob/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/kiminzajnr/alx-low_level_programming/blob/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2286,14 +2286,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="44ae66df7f93050ba99bcef617d8b8999148459f0b236cf48cab0f2e0a90c906">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="cf49d1b22dbf98320d52678ae867f7854f1663f96f456d66ebbc7a26e983508b">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>master</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2337,12 +2337,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/abela12/alx-low_level_programming/refs"
+            query-endpoint="/kiminzajnr/alx-low_level_programming/refs"
             
-            cache-key="v0:1646899231.57784"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="YWJlbGExMi9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
+            cache-key="v0:1656594609.966519"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="a2ltaW56YWpuci9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
             prefetch-on-mouseover
           >
 
@@ -2367,7 +2367,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/abela12/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x07-pointers_arrays_strings/101-crackme_password" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/kiminzajnr/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x07-pointers_arrays_strings/9-set_string.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2377,7 +2377,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/abela12/alx-low_level_programming/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/kiminzajnr/alx-low_level_programming/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2391,11 +2391,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/abela12/alx-low_level_programming/refs"
-            cache-key="v0:1646899231.57784"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="YWJlbGExMi9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
+            query-endpoint="/kiminzajnr/alx-low_level_programming/refs"
+            cache-key="v0:1656594609.966519"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="a2ltaW56YWpuci9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2409,7 +2409,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/abela12/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x07-pointers_arrays_strings/101-crackme_password" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/kiminzajnr/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x07-pointers_arrays_strings/9-set_string.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2427,7 +2427,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/abela12/alx-low_level_programming/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/kiminzajnr/alx-low_level_programming/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2470,9 +2470,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/abela12/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/abela12/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings"><span>0x07-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">101-crackme_password</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/kiminzajnr/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/kiminzajnr/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings"><span>0x07-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">9-set_string.c</strong>
   </h2>
-    <a href="/abela12/alx-low_level_programming/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/kiminzajnr/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2481,7 +2481,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="9bd815b82a466b985dde21c6999e2036079d87b8c7cdadd68b0a527d8a407074" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/abela12/alx-low_level_programming/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="aea2eb5af9b472553f2f6090b5de5a2029ab26997ba013f902eb87447d42c840" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/kiminzajnr/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2493,13 +2493,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x07-pointers_arrays_strings/101-crackme_password" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x07-pointers_arrays_strings/9-set_string.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/abela12/alx-low_level_programming/blob/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/kiminzajnr/alx-low_level_programming/blob/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2527,83 +2527,20 @@
   
 </div></div>
 
-    <include-fragment src="/abela12/alx-low_level_programming/spoofed_commit_check/8bbb04d661a97014fd23f83b379fb74c635365dc" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/kiminzajnr/alx-low_level_programming/spoofed_commit_check/64723e7846a4b62e3087e12257b2a694996df25e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/abela12/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abela12"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/46282557?s=48&amp;v=4" width="24" height="24" alt="@abela12" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/abela12/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abela12">abela12</a>
+  <include-fragment src="/kiminzajnr/alx-low_level_programming/contributors/master/0x07-pointers_arrays_strings/9-set_string.c" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="0x07. C - Even more pointers, arrays and strings - Added" class="Link--secondary" href="/abela12/alx-low_level_programming/commit/13640fae75a4de7261b3658e0404cd1a48cfbc38">0x07. C - Even more pointers, arrays and strings - Added</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/abela12/alx-low_level_programming/commit/13640fae75a4de7261b3658e0404cd1a48cfbc38/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/abela12/alx-low_level_programming/commit/13640fae75a4de7261b3658e0404cd1a48cfbc38" data-pjax>13640fa</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-03-29T04:08:28Z" class="no-wrap">Mar 29, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/abela12/alx-low_level_programming/commits/main/0x07-pointers_arrays_strings/101-crackme_password" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/abela12/alx-low_level_programming/contributors-list/main/0x07-pointers_arrays_strings/101-crackme_password" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2627,20 +2564,20 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      13 lines (12 sloc)
       <span class="file-info-divider"></span>
-    6 Bytes
+    222 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/abela12/alx-low_level_programming/raw/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password" href="/abela12/alx-low_level_programming/raw/main/0x07-pointers_arrays_strings/101-crackme_password" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/kiminzajnr/alx-low_level_programming/raw/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c" href="/kiminzajnr/alx-low_level_programming/raw/master/0x07-pointers_arrays_strings/9-set_string.c" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/abela12/alx-low_level_programming/blame/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password" href="/abela12/alx-low_level_programming/blame/main/0x07-pointers_arrays_strings/101-crackme_password" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/kiminzajnr/alx-low_level_programming/blame/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c" href="/kiminzajnr/alx-low_level_programming/blame/master/0x07-pointers_arrays_strings/9-set_string.c" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2649,21 +2586,21 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/abela12/alx-low_level_programming/edit/main/0x07-pointers_arrays_strings/101-crackme_password" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="85kBJl4MRa5_8hQIX3Ps4Pvjw4W6JbyccDp9-KpisbUSfNLqCgFDByHW-teiDMgf63WBuuF3SbxwxtVTZgF8dg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/kiminzajnr/alx-low_level_programming/edit/master/0x07-pointers_arrays_strings/9-set_string.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tlzuSk3yAPmxwIUqp22yVmntDvQpDY2vFAnki3LPdVB-SwvxaO68nvZYOli8Dcs7qLvqEfaODW9YUQ09dzn-Zw" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:468245747,&quot;actor_id&quot;:98743776,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:335630320,&quot;actor_id&quot;:98743776,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/abela12/alx-low_level_programming/edit/main/0x07-pointers_arrays_strings/101-crackme_password" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xnxfEFPLAj-9lp94NN9kljfR8eJjqkXNWzNXgymueq8nmYzcB8YEluOycafJoEBpJ0ez3Tj4sO1bz_8o5c23bA" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/kiminzajnr/alx-low_level_programming/edit/master/0x07-pointers_arrays_strings/9-set_string.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P4jumQE4g2Ug5gIYY2-CaUqfrO79UCtlcZo0ejX7TDT3nwsiJCQ_Amd-vWp4D_sEi8lICyLTq6U9wt3MMA3HAw" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:468245747,&quot;actor_id&quot;:98743776,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:335630320,&quot;actor_id&quot;:98743776,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
@@ -2678,10 +2615,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/abela12/alx-low_level_programming/raw/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/kiminzajnr/alx-low_level_programming/raw/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="9f0cae197ec35a22ce01d2e76cbc2013f8cd12a4889fe5099c3f8cf3eb2984c8" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="297428443f5e962a0b9a8e306b4a5d364948945bbcd658a76508a1666b4df426" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2706,7 +2643,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/abela12/alx-low_level_programming/delete/main/0x07-pointers_arrays_strings/101-crackme_password" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M5jmC01xSRxqOcYuse1dAHTldTLEBTN0u-R1-kPyIKGHGJ4YhkUjiLElVKVaAHsNw1K5fIxXMuKSPxTHhOxTAw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/kiminzajnr/alx-low_level_programming/delete/master/0x07-pointers_arrays_strings/9-set_string.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_B45yJvhEEfXWwZNsehYH5zn1NWMGaAK8UJQwpO6iq3iHtQ9wSN6dvg8LfX5rpBdnJHtI6iJ9QPjvOUbTIRyAg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2723,7 +2660,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:468245747,&quot;actor_id&quot;:98743776,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:335630320,&quot;actor_id&quot;:98743776,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
@@ -2739,15 +2676,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/abela12/alx-low_level_programming/raw/main/0x07-pointers_arrays_strings/101-crackme_password">
+            <a class="dropdown-item" href="/kiminzajnr/alx-low_level_programming/raw/master/0x07-pointers_arrays_strings/9-set_string.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/abela12/alx-low_level_programming/raw/main/0x07-pointers_arrays_strings/101-crackme_password" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/kiminzajnr/alx-low_level_programming/raw/master/0x07-pointers_arrays_strings/9-set_string.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468245747,&quot;originating_url&quot;:&quot;https://github.com/abela12/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/101-crackme_password&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="9f0cae197ec35a22ce01d2e76cbc2013f8cd12a4889fe5099c3f8cf3eb2984c8">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:335630320,&quot;originating_url&quot;:&quot;https://github.com/kiminzajnr/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/9-set_string.c&quot;,&quot;user_id&quot;:98743776}}" data-hydro-click-hmac="297428443f5e962a0b9a8e306b4a5d364948945bbcd658a76508a1666b4df426">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2770,20 +2707,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/abela12/alx-low_level_programming/blame/main/0x07-pointers_arrays_strings/101-crackme_password">
+              <a class="dropdown-item" href="/kiminzajnr/alx-low_level_programming/blame/master/0x07-pointers_arrays_strings/9-set_string.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/abela12/alx-low_level_programming/edit/main/0x07-pointers_arrays_strings/101-crackme_password">Edit file</a>
+                <a class="dropdown-item" href="/kiminzajnr/alx-low_level_programming/edit/master/0x07-pointers_arrays_strings/9-set_string.c">Edit file</a>
               </li>
                 <li>
-                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:468245747,&quot;actor_id&quot;:98743776,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:335630320,&quot;actor_id&quot;:98743776,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/abela12/alx-low_level_programming/delete/main/0x07-pointers_arrays_strings/101-crackme_password">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/kiminzajnr/alx-low_level_programming/delete/master/0x07-pointers_arrays_strings/9-set_string.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2792,7 +2729,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2819,10 +2756,59 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="0x07-pointers_arrays_strings/101-crackme_password">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x07-pointers_arrays_strings/9-set_string.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">abc123</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>holberton.h<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * set_string - sets the value of a pointer to char.</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @s: double pointer.</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @to: change value of pointer to this.</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: nothing.</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">set_string</span>(<span class="pl-k">char</span> **s, <span class="pl-k">char</span> *to)</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	*s = to;</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2848,8 +2834,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/abela12/alx-low_level_programming/blame/8bbb04d661a97014fd23f83b379fb74c635365dc/0x07-pointers_arrays_strings/101-crackme_password">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/abela12/alx-low_level_programming/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/kiminzajnr/alx-low_level_programming/blame/64723e7846a4b62e3087e12257b2a694996df25e/0x07-pointers_arrays_strings/9-set_string.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/kiminzajnr/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -2881,7 +2867,7 @@
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
       aria-label="Provide feedback"
-      src="/abela12/alx-low_level_programming/repos/code_nav_survey"
+      src="/kiminzajnr/alx-low_level_programming/repos/code_nav_survey"
       
     >
     <div class="Box-header">
